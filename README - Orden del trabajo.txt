@@ -1,18 +1,31 @@
 Preguntas clave:
 
 1 - Relación entre edad y rendimiento individual y colectivo.
-2 - Relación entre altura/peso y rendimiento (en equipo). (OPCIONAL)
-3 - Impacto de los jugadores mejor rankeados en el Draft en su primera temporada (2021-2022).
-4 - Análisis completo del juego final 2021-2022.
+    1 - Cual es la edad promedio de los jugadores de la NBA?
+    2 - Cuales son los equipos con jugadores mas jovenes y los equipos con jugadores mas viejos?
+    3 - Rendimiento de jugadores mas experimentados vs jugadores menos experimentados. (Con igual o mas minutos que la media)
+    4 - Incidencia del rendimiento individual en el rendimiento colectivo.
 
-Preguntas básicas:
 
-OK - 1 - Cual es la edad promedio de los jugadores de la NBA? 
-OK - 2 - Cual es el equipo con jugadores mas jovenes y el equipo con jugadores mas viejos? 
-3 - Rendimiento de jugadores mas experimentados vs jugadores menos experimentados. (Con igual o mas minutos que la media)
-OK - 4 - Posición con mas triples por partido / Posición con mejor conversión de triples
-OK - 5 - Posición con mas Field Goals por partido / Posición con mejor conversión de Field Goals
-OK - 6 - Equipo con mas conversión de tiros y equipo con mas conversión de triples
+2 - Impacto de los jugadores del Draft en su primera temporada (2021-2022).
+    1 - Jugadores mejor rankeados vs jugadores peor rankeados (Hubo alguna sorpresa?) (30 mejores vs 30 peores)
+    2 - Nombrar casos en que jugadores peor rankeados superen a mejor rankeados
+
+3 - Relación entre MP, Age, Dobles y triples y Puntos totales en Playoffs vs Temporada Regular
+    1 - Regresión temporada Regular
+    2 - Regresión Playoffs
+
+4 - Otros datos de interés:
+    1 - Jugador con más triples
+    2 - Jugador con más robos
+    3 - Jugador con más rebotes ofensivos
+    4 - Jugador con más rebotes defensivos
+    5 - Jugador con más pérdidas de balón
+    6 - Posición con mas triples por partido / Posición con mejor conversión de triples
+    7 - Posición con mas Field Goals por partido / Posición con mejor conversión de Field Goals
+    8 - Equipo con mas conversión de tiros y equipo con mas conversión de triples
+
+
 
 Preguntas avanzadas:
 
